@@ -2,5 +2,11 @@ To commmit the files in the staging area
 command is           git commit -m "initial commit"
 
 
-TO see the commitments done till then
-command is           got log
+To see the commitments done till then
+command is           git log
+
+To check the difference between the present file and the last commitedd file 
+command is           git diff File name
+
+To revert back to the prevous commited versions 
+command is           git checkout File name
