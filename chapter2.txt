@@ -1,2 +1,9 @@
 To view the status of the staging area.
 command is          git status 
+
+
+To add a new branch 
+command is         git branch name
+
+To switch between branches
+command is         git checkout branch name
