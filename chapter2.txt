@@ -1,0 +1,2 @@
+To view the status of the staging area.
+command is          git status 

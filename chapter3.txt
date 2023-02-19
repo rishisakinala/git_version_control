@@ -1,0 +1,6 @@
+To commmit the files in the staging area 
+command is           git commit -m "initial commit"
+
+
+TO see the commitments done till then
+command is           got log
